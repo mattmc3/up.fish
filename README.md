@@ -2,9 +2,11 @@
 
 # up, the fast way to go up dirs in fish
 
-Tired of `cd ..`, `cd ../..`, `cd ../../..`, `cd ../../../..`?
+Tired of attaching "ballons" to your `cd` command to go up directories?
 
-Tired of creating aliases like `cd1`, `cd2`, ... `cd10` to navigate up directories?
+`cd ..`, `cd ../..`, `cd ../../..`, `cd ../../../..`, `cd ../../../../../../../../../../../../../..`?
+
+Tired of creating weird aliases like `cd..4`, `cd..12`, ... `cd..100` to navigate up directories?
 
 Now you can use `up`!
 
