@@ -15,7 +15,19 @@ Type `up` to go up one directory. Type `up 2` to go up two directories. Type
 
 No more defining an alias for `cd ../../../../../../..`.  Just type `up 7`.
 
-This is the best kind of `up`, where all dogs can talk and Ellie and Carl live forever.
+You can also get the path that `up` will produce by using `upp` (up path).
+This lets you type simple commands like `ls (upp 4)` instead of
+`cd ../../../..`.
+
+This is the best kind of `up`, where all dogs can talk and Ellie and Carl live
+on together.
+
+## Commands
+
+| Command | Description                            |
+|:--------|:---------------------------------------|
+| `up`    | Travel up any number of directories    |
+| `upp`   | Get the path of an ancestory directory |
 
 ## Install
 
