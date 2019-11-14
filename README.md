@@ -1,8 +1,8 @@
 ![Up](https://raw.githubusercontent.com/mattmc3/fish-up/resources/up.png "Up")
 
-# up, the fast way to go up dirs in fish
+# UP! - the fast way to go up directories in fish
 
-Tired of attaching "ballons" to your `cd` command to go up directories?
+Tired of attaching "balloons" to your `cd` command to go up directories?
 
 `cd ..`, `cd ../..`, `cd ../../..`, `cd ../../../..`, `cd ../../../../../../../../../../../../../..`?
 
@@ -19,8 +19,9 @@ You can also get the path that `up` will produce by using `upp` (up path).
 This lets you type simple commands like `ls (upp 4)` instead of
 `ls ../../../..`.
 
-This is the best kind of `up`, where all dogs can talk, and there's no sickness,
-and couples can live happily ever after running commands in the fish shell.
+This is the best kind of `up`, where dogs can talk, and there's no diseases,
+and everyone can live happily ever after together running commands in the
+[fish shell][fish-shell].
 
 ## Commands
 
@@ -44,3 +45,5 @@ OMF:
 # oh-my-fish installation
 omf install https://github.com/mattmc3/fish-up
 ```
+
+[fish-shell]: https://fishshell.com
