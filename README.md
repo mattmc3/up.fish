@@ -17,10 +17,10 @@ No more defining an alias for `cd ../../../../../../..`.  Just type `up 7`.
 
 You can also get the path that `up` will produce by using `upp` (up path).
 This lets you type simple commands like `ls (upp 4)` instead of
-`cd ../../../..`.
+`ls ../../../..`.
 
-This is the best kind of `up`, where all dogs can talk and Ellie and Carl live
-on together.
+This is the best kind of `up`, where all dogs can talk, and there's no sickness,
+and couples can live happily ever after running commands in the fish shell.
 
 ## Commands
 
