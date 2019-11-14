@@ -25,10 +25,10 @@ and everyone can live happily ever after together running commands in the
 
 ## Commands
 
-| Command | Description                            |
-|:--------|:---------------------------------------|
-| `up`    | Travel up any number of directories    |
-| `upp`   | Get the path of an ancestory directory |
+| Command | Description                           |
+|:--------|:--------------------------------------|
+| `up`    | Travel up any number of directories   |
+| `upp`   | Get the path of an ancestor directory |
 
 ## Install
 
