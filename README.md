@@ -11,7 +11,7 @@ Now you can use `up`!
 Type `up` to go up one directory. Type `up 2` to go up two directories. Type
 `up 20` to go up twenty directories. It's that easy.
 
-No more defining an alias for `cd ..\..\..\..\..\..\..`.  Just type `up 7`.
+No more defining an alias for `cd ../../../../../../..`.  Just type `up 7`.
 
 ## Install
 
