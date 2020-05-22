@@ -32,18 +32,10 @@ and everyone can live happily ever after together running commands in the
 
 ## Install
 
-Fisher:
+fisher installation:
 
 ```shell
-# fisher installation
-fisher add https://github.com/mattmc3/fish-up
-```
-
-OMF:
-
-```shell
-# oh-my-fish installation
-omf install https://github.com/mattmc3/fish-up
+fisher add fishingline/up
 ```
 
 [fish-shell]: https://fishshell.com
