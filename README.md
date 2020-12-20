@@ -32,10 +32,18 @@ and everyone can live happily ever after together running commands in the
 
 ## Install
 
-fisher installation:
+[reel] installation:
 
 ```shell
-fisher add fishingline/up
+reel in mattmc3/up.fish
 ```
 
+[fisher] installation:
+
+```shell
+fisher add mattmc3/up.fish
+```
+
+[reel]: https://github.com/mattmc3/reel
+[fisher]: https://github.com/jorgebucaran/fisher
 [fish-shell]: https://fishshell.com
