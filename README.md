@@ -24,10 +24,11 @@ ever after running [fish][fish-shell].
 
 ## Commands
 
-| Command | Description                           |
-|:--------|:--------------------------------------|
-| `up`    | Travel up any number of directories   |
-| `upp`   | Get the path of an ancestor directory |
+| Command | Description                                |
+|:--------|:-------------------------------------------|
+| `up`    | Travel up any number of directories        |
+| `upp`   | Get the path of an ancestor directory      |
+| `lsup`  | List the contents of an ancestor directory |
 
 ## Install
 
