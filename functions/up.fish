@@ -4,5 +4,5 @@ function up -d 'Travel up any number of directories'
         echo "Invalid arguments '$argv'"\n"Usage: "(status function)" <levels>" >&2
         return 2
     end
-    eval (cd $balloons)
+    cd $balloons
 end

@@ -4,5 +4,5 @@ function lsup -d 'List up any number of directories'
         echo "Invalid arguments '$argv'"\n"Usage: "(status function)" <levels>" >&2
         return 2
     end
-    eval (ls $balloons)
+    ls $balloons
 end
