@@ -1,4 +1,4 @@
-![Up](https://raw.githubusercontent.com/mattmc3/fish-up/resources/up.png "Up")
+![Up](https://github.com/mattmc3/up.fish/blob/resources/up.png?raw=true "Up")
 
 # UP! - the fast way to go up directories in fish
 
